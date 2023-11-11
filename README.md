@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliotnykvist" alt="elliotnykvist" /></a> </p>
 
-- 🔭 I’m currently working on [To-Do-App](https://github.com/ElliotNykvist/To-Do-App)
+- 🔭 I just finished a [Weather website](https://github.com/ElliotNykvist/weather-app)
 
 - 🌱 I’m currently learning **React**
 
